@@ -1,2 +1,2 @@
 # nvim-callgraph
-visualize object relationships using treesitter
+visualize object relationships using vim lsp
